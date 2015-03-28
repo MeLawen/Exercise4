@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13215" started-at="2015-03-28T16:14:29Z" finished-at="2015-03-28T16:14:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13215" started-at="2015-03-28T16:14:29Z" finished-at="2015-03-28T16:14:42Z">
+      <class name="testt.GridMapTest">
+        <test-method status="PASS" signature="ActionTest()[pri:0, instance:testt.GridMapTest@1fe5c6f]" name="ActionTest" duration-ms="13173" started-at="2015-03-28T16:14:29Z" finished-at="2015-03-28T16:14:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ActionTest -->
+        <test-method status="PASS" signature="rangeToObstacleTest()[pri:0, instance:testt.GridMapTest@1fe5c6f]" name="rangeToObstacleTest" duration-ms="3" started-at="2015-03-28T16:14:42Z" finished-at="2015-03-28T16:14:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rangeToObstacleTest -->
+        <test-method status="PASS" signature="rectangularMapTest()[pri:0, instance:testt.GridMapTest@1fe5c6f]" name="rectangularMapTest" duration-ms="6" started-at="2015-03-28T16:14:42Z" finished-at="2015-03-28T16:14:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rectangularMapTest -->
+        <test-method status="PASS" signature="testMapTest()[pri:0, instance:testt.GridMapTest@1fe5c6f]" name="testMapTest" duration-ms="8" started-at="2015-03-28T16:14:42Z" finished-at="2015-03-28T16:14:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMapTest -->
+      </class> <!-- testt.GridMapTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
